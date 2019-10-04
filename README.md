@@ -11,7 +11,7 @@ Link utile:
 3. Aggiungere a questa finestra una lista con i formati possibili per scaricare il file (.pdf, .docx)
 
 ## Tips and Tricks
-* Attenzione, nella inizializzazione degli oggetti ad importare le classi di Vaadin e non quelle di Java
+* Attenzione, ogni qualvolta si inizializza un oggetto importare le classi di Vaadin e non quelle di Java
 * I tre componenti da utilizzare sono:
   * [Button](https://vaadin.com/components/vaadin-button)
   * [Dialog](https://vaadin.com/components/vaadin-dialog)
